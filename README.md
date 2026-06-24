@@ -21,8 +21,6 @@ I enjoy designing electronics, programming microcontrollers, building PCBs, and 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
-**Also:** Verilog (class usage only)
-
 ### 💻 Main OS
 
 <p>
