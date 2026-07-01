@@ -1,4 +1,4 @@
-# Hi, I'm Radin 👋
+# Hi, I'm Radin 📎
 
 Electrical Engineering student at UC Irvine interested in embedded systems, robotics, and programming.
 
