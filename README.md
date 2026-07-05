@@ -1,4 +1,4 @@
-# Hi, I'm Radin 📎
+# Hi, I'm Radin <a href="https://consumerrights.wiki/w/Main_Page" style="color:inherit;text-decoration:none;">📎</a>
 
 Electrical Engineering student at UC Irvine interested in embedded systems, robotics, and programming.
 
