@@ -26,7 +26,7 @@ I enjoy designing electronics, programming microcontrollers, building PCBs, and 
 ### 💻 OS
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <a href="https://kernel.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fedora/fedora-original.svg" alt="Fedora" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Windows" width="40" height="40"/>
